@@ -1,4 +1,4 @@
-// AIzaSyB-YNpnzr-2SE-0RBYcCKuH7-poyZqbcrQ -----> API KEY GOOGLE MAPS
+//  -----> API KEY GOOGLE MAPS
 
 // This example adds a search box to a map, using the Google Place Autocomplete
 // feature. People can enter geographical searches. The search box will return a
@@ -73,7 +73,7 @@ function initAutocomplete() {
       }
 
       // HERE MAPS FUNCTIONS
-      // 6KFwkE5ukvCWg-2LokkGZxBB10NiaOxsMqU41sMktmE ------> HERE API KEY
+      //  ------> HERE API KEY
 
       /**
        * Calculates and displays the address details of 200 S Mathilda Ave, Sunnyvale, CA
@@ -137,7 +137,7 @@ function initAutocomplete() {
       //Step 1: initialize communication with the platform
       // In your own code, replace variable window.apikey with your own apikey
       var platform = new H.service.Platform({
-        apikey: '6KFwkE5ukvCWg-2LokkGZxBB10NiaOxsMqU41sMktmE'
+        apikey: 
       });
       var defaultLayers = platform.createDefaultLayers();
 
